@@ -169,7 +169,7 @@ as 1840: what would constitute a complete first version of *Walden*
 from its opening sentence the marks of its origins as lecture copy: "I
 should not presume to talk so much about myself and my affairs as I
 shall in this ~~lecture~~ ~~<span style="color: #009c00;">book
-work</span> <span style="color: #009c00;">book</span> if very particular
+work</span>~~ <span style="color: #009c00;">book</span> if very particular
 and personal inquiries had not been made concerning my mode of
 life..."[^2^](#fn2){#fnref2 .footnoteRef} Thoreau likely returned to the
 manuscript in 1848-49, possibly starting out with a fair copy, and
@@ -194,7 +194,7 @@ A manuscript page from HM 924, the manuscript of Walden in the
 Huntington Library. Used with permission.\[/caption\] In *Revising
 Mythologies*, Adams and Ross speculate about Thoreau's likely workflow
 in producing these versions and aptly describe the difficulty of
-establishing clear boundaries between the versions:~~
+establishing clear boundaries between the versions:
 
 <div
 style="margin: 1.5em;border-left: 3px solid #e0e0e0;padding-left: 1.5em;">
@@ -591,11 +591,12 @@ are plastic like clay in the hands of the potter" (309). If we count
 literature — "poetry" — among these productions, and regard the books of
 humans as no different from the Book of Nature, then *Walden* becomes
 for us a work that did not begin as, but ultimately became, a fluid text
-proclaiming the inevitable fluidity of texts. This is a convenient
-revision narrative for an edition of *Walden* that justifies itself
-through a similar declaration — perhaps too convenient to be entirely
-trusted. We invite readers to provide alternative narratives, or
-improvements to this one, in the margins of *Walden* itself,
+naming fluidity as the inevitable condition and life-giving principle of
+literature. This is a convenient revision narrative for an edition of
+*Walden* that makes the same identification — perhaps too convenient to
+be entirely trusted. We invite readers to provide alternative
+narratives, or improvements to this one, in the margins of *Walden*
+itself,
 [here](http://commons.digitalthoreau.org/walden/reading/#pNwtActIwhoheiapcAwwicorIsaomiuautaowantlimbtielnorbabfahscdblrcomcobTsaamstbmsTtshimGlahmmgatfttoscalptactBatwwfignobsnrscTncpwesrcswrTanias),
 [here](http://commons.digitalthoreau.org/walden/spring/spring-1-13/#pTisttohitpoaoNTMebpalWCwdhfuwmtonalTpimetmtlafvTseiictnehllbaigwtwsoslhsamhfcogSIpgfsmrpIknpwficEshscsfbfoeFcfbbTiTflablsfsfbwnmfdhsulbbsbgacl),
 or elsewhere. Submitted as a dissertation in 1967, revised and re-typed
