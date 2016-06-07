@@ -7,3 +7,5 @@ Thoreau revised *Walden* many times across the seven draft versions he composed 
 [*Walden: A Fluid-Text Edition*](http://digitalthoreau.org/fluid-text-toc/) further revises Clapper's dissertation by encoding the information in [TEI](http://tei-c.org).
 
 The editorial introduction to [*Walden: A Fluid-Text Edition*](http://digitalthoreau.org/fluid-text-toc/) is bound to undergo revision over time. It's a fluid text, too. Because, what text isn't? The purpose of this repository is to make it possible for users to track substantive revisions to the introduction.
+
+The content of the introduction is provided here as plain text. Images are not included.
